@@ -1,0 +1,41 @@
+Incident Response: Imagine a large company discovering unusual activity on their servers. An SOC L2 analyst would quickly investigate and take action to mitigate the threat, such as isolating compromised systems and limiting potential damage.
+
+Threat Detection: An SOC L2 analyst might notice unusual patterns of data access by an employee who has never accessed that type of data before. This could indicate a potential insider threat.
+
+Security Monitoring: Think of an SOC L2 analyst as a security guard for a building. They're constantly watching security cameras, checking access logs, and looking for any signs of suspicious behavior.
+
+SIEM Management: Security Information and Event Management (SIEM) tools collect and analyze data from various sources. An SOC L2 analyst might use a SIEM tool to correlate data from different systems to identify a coordinated attack.
+
+Log Analysis: If an application unexpectedly crashes, the SOC L2 analyst would analyze the system logs to identify what went wrong and whether it was due to a technical glitch or a security breach.
+
+Network Traffic Analysis: An SOC L2 analyst monitoring network traffic might notice a sudden surge in data leaving a company's network. This could indicate a data exfiltration attempt by a malicious actor.
+
+Malware Analysis: If a company's computers are infected with malware, the SOC L2 analyst would dissect the malware to understand how it works, what it does, and how to remove it.
+
+Vulnerability Assessment: An SOC L2 analyst might run automated scans on a network to find vulnerabilities that hackers could exploit, such as outdated software or misconfigured settings.
+
+Forensic Analysis: When a breach occurs, the SOC L2 analyst would collect and analyze digital evidence to reconstruct the attack and determine how the breach occurred.
+
+Threat Intelligence: SOC L2 analysts constantly gather information about new hacking techniques, malware strains, and other threats to stay ahead of potential attacks.
+
+Security Patch Management: Regularly applying software updates and patches to systems is crucial. An SOC L2 analyst ensures that critical security patches are promptly applied to prevent known vulnerabilities from being exploited.
+
+Intrusion Detection Systems (IDS): Similar to a home alarm system, an IDS monitors network traffic for any unauthorized or suspicious activity and alerts the SOC L2 analyst when something unusual is detected.
+
+Penetration Testing: The SOC L2 analyst might simulate an attack on their own systems to identify vulnerabilities before real attackers can exploit them.
+
+Scripting/Coding: Using scripts, an SOC L2 analyst can automate repetitive tasks, such as analyzing log files or generating reports.
+
+Networking Protocols: Understanding protocols like TCP/IP helps SOC L2 analysts interpret network traffic and identify abnormalities.
+
+Security Frameworks: Familiarity with frameworks like NIST or ISO 27001 guides SOC L2 analysts in implementing best practices for security.
+
+Risk Assessment: An SOC L2 analyst evaluates potential security risks and recommends actions to mitigate them. For example, they might advise against using an insecure third-party software.
+
+Endpoint Security: Protecting individual devices (endpoints) from threats, such as installing antivirus software on employee computers.
+
+Secure Configuration Management: Ensuring systems are properly configured reduces the risk of vulnerabilities. For instance, an SOC L2 analyst would make sure that default passwords are changed.
+
+Communication: SOC L2 analysts need strong communication skills to report incidents accurately to management, collaborate with other teams, and convey technical information to non-technical stakeholders.
+
+These examples highlight how SOC L2 analysts play a critical role in safeguarding an organization's digital assets and responding to security challenges.
